@@ -1,11 +1,15 @@
 ---
 widget: about
+active: true
+author: admin
 widget_id: Biography
 headless: true
 weight: 20
 title: ""
-active: true
-author: admin
+design:
+  background:
+    gradient_start: "#0df22e"
+    gradient_end: "#0df22e"
 ---
 My research focuses on the ecology and evolution of multispecies interactions. I am broadly interested in the evolutionary ecology of host-microbe interactions with the overall goal of understanding how microbial organisms spread, persist, and affect their host populations.
 
