@@ -5,7 +5,7 @@ author: admin
 widget_id: Biography
 headless: true
 weight: 20
-title: ""
+title: Biography
 design:
   background:
     gradient_start: "#0df22e"
