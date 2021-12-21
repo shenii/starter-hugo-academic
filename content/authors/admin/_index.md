@@ -41,9 +41,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+My research focuses on the ecology and evolution of multispecies interactions. I am broadly interested in the evolutionary ecology of host-microbe interactions with the overall goal of understanding how microbial organisms spread, persist, and affect their host populations.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My current work seeks to understand how host-microbe symbioses impact evolutionary outcomes in host populations. I use experimental evolution and mathematical modeling approaches to understand how host-microbe symbioses, ranging from mutualistic to pathogenic interactions, modify virulence evolution in changing environments.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I received my PhD in the Department of Ecology and Evolutionary Biology at the University of Michigan under the mentorship of [John Vandermeer](https://lsa.umich.edu/eeb/people/faculty/jvander.html). Previously, I was a NSF Postdoctoral Fellow in Biology working with [Mike Boots](https://ib.berkeley.edu/people/faculty/bootsm) in the Department of Integrative Biology at the University of California Berkeley. I am currently a Carolina Fellow for Faculty Diversity and USDA NIFA Fellow at the University of North Carolina Chapel Hill
