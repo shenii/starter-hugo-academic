@@ -24,7 +24,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: University of North Carolina Chapel Hill
+  - name: UNC Chapel Hill
     url: https://www.unc.edu/
 education:
   courses:
