@@ -1,21 +1,14 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: About
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+title: ""
+active: true
 author: admin
 ---
+My research focuses on the ecology and evolution of multispecies interactions. I am broadly interested in the evolutionary ecology of host-microbe interactions with the overall goal of understanding how microbial organisms spread, persist, and affect their host populations.
+
+My current work seeks to understand how host-microbe symbioses impact evolutionary outcomes in host populations. I use experimental evolution and mathematical modeling approaches to understand how host-microbe symbioses, ranging from mutualistic to pathogenic interactions, modify virulence evolution in changing environments.
+
+I received my PhD in the Department of Ecology and Evolutionary Biology at the University of Michigan under the mentorship of [John Vandermeer](https://lsa.umich.edu/eeb/people/faculty/jvander.html). Previously, I was a NSF Postdoctoral Fellow in Biology working with [Mike Boots](https://ib.berkeley.edu/people/faculty/bootsm) in the Department of Integrative Biology at the University of California Berkeley. I am currently a Carolina Fellow for Faculty Diversity and USDA NIFA Fellow at the University of North Carolina Chapel Hill
