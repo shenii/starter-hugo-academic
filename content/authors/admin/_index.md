@@ -36,4 +36,4 @@ My research focuses on the ecology and evolution of multispecies interactions. I
 
 My current work seeks to understand how host-microbe symbioses impact evolutionary outcomes in host populations. I use experimental evolution and mathematical modeling approaches to understand how host-microbe symbioses, ranging from mutualistic to pathogenic interactions, modify virulence evolution in changing environments.
 
-I received my PhD in the Department of Ecology and Evolutionary Biology at the University of Michigan. Subsequently, I held an NSF Postdoctoral Fellow in Biology in the Department of Integrative Biology at the University of California Berkeley. I am currently a Carolina Fellow for Faculty Diversity and USDA NIFA Fellow at the University of North Carolina Chapel Hill
+I received my PhD in the Department of Ecology and Evolutionary Biology at the University of Michigan. Subsequently, I held an NSF Postdoctoral Fellow in Biology in the Department of Integrative Biology at the University of California Berkeley. I am currently a Carolina Postdoctoral Fellow and USDA NIFA Fellow at the University of North Carolina Chapel Hill
