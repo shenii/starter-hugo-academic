@@ -1,5 +1,5 @@
 ---
-title: Senay Yitbarek
+title: "Senay "
 role: USDA NIFA Fellow
 avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
